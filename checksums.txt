@@ -1,0 +1,5 @@
+PersonaGuardian-v0.1.0-dogfood.apk
+Version: 0.1.0 (versionCode 1) — Android 8.0+ (API 26)
+Size: 32397641 bytes (30.90 MB)
+SHA-256: ADCFB4E41A6279725A935EE92C87457C6454A44A74244CEDC41FF0FDF5C7E331
+Signing certificate: CN=Persona Guardian (cert SHA-256 0f6bf989073a2e07cb433ebeee1fb812894eb3f93523ce68f110a010977b98a3)
